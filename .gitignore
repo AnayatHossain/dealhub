@@ -53,3 +53,5 @@ app.*.map.json
  messagingSenderId: "227342535608",
  appId: "1:227342535608:web:e7bcfd0237d85fa646dd4d",
  measurementId: "G-ZKVE6XYBPQ",
+config.bat
+node_modules
